@@ -226,10 +226,10 @@ header ul li:hover{
     background-image: url("./imgs/2.png");
 }
 .projectUnique:nth-child(2){
-    background-image: url("./imgs/3.png");
+    background-image: url("./imgs/3.jpg");
 }
 .projectUnique:nth-child(3){
-    background-image: url("./imgs/1.png");
+    background-image: url("./imgs/1.jpg");
 }
 .projectUnique:nth-child(4){
     background-image: url("./imgs/4.png");
