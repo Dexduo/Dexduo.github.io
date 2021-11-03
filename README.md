@@ -7,10 +7,10 @@ My Personal Website
    usando apenas HTML CSS JS puro.
 
 
-![img1](./imgs/portfolio1.png)
+![img1](./imgs/portfolio1.PNG)
 
-![img2](./imgs/portfolio2.png)
+![img2](./imgs/portfolio2.PNG)
 
-![img3](./imgs/portfolio3.png)
+![img3](./imgs/portfolio3.PNG)
 
 **@Dexduo**
