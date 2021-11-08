@@ -75,6 +75,20 @@ header ul li:hover{
     transform: scale(1.1, 1.1);
 }
 
+/* header #jobsLink img{
+    width: 40px;
+    height: auto;
+    margin-right: 1%;
+} */
+#jobsLink{
+    position: absolute;
+}
+#jobsLink img{
+    width: 40px;
+    height: auto;
+    margin-left: 10px;
+}
+
 #welcome{
     text-align: center;
     font-size: 40px;
